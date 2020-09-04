@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="WordCloudns" constructor="WordCloud" version="0.0.1" display-name-key="WordCloud" description-key="main control" control-type="standard">
+    <type-group name="strings">
+      <type>SingleLine.Text</type>
+      <type>SingleLine.TextArea</type>
+      <type>Multiple</type>
+    </type-group>
+    <!-- dataset node represents a set of entity records on CDS; allow more than one datasets -->
+    <data-set name="datasource" display-name-key="Data Source">
+      <property-set name="targetfield" display-name-key="target Field" description-key="" of-type-group="strings" usage="bound" required="true" />
+    </data-set>
+    <property name="nGram" display-name-key="nGram" description-key="nGram" of-type="Whole.None" usage="input" required="true" />
+    <property name="max_number_words" display-name-key="max_number_words" description-key="max_number_words" of-type="Whole.None" usage="input" required="true" />
+  
+
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/WordCloud.css" order="2" />
+    </resources>
+  </control>
+</manifest>
