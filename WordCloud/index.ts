@@ -211,10 +211,11 @@ export class WordCloud implements ComponentFramework.StandardControl<IInputs, IO
 		this.series.minFontSize = 35;
 		this.series.maxFontSize = 90;
 
-		// Tooltips
-		//this.series.labels.template.tooltipText = "[bold]{value}[/]";
-		//this.series.labels.template.url = "https://docs.microsoft.com/en-us/search/?search={word}";
-		//this.series.labels.template.urlTarget = "_blank";
+		/* Tooltips
+		this.series.labels.template.tooltipText = "[bold]{value}[/]";
+		this.series.labels.template.url = "https://docs.microsoft.com/en-us/search/?search={word}";
+		this.series.labels.template.urlTarget = "_blank";
+		*/
 
 		//Colors
 		this.series.colors = new am4core.ColorSet();
