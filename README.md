@@ -1,2 +1,2 @@
 # PCF_WordCloud
-![](WordCloud.gif)
+![](Screenshots/WordCloud.gif)
