@@ -37,10 +37,10 @@ First of all, users need to install:
 PowerApps CLI should be updated to its latest version:    
 <pre>pac install latest</pre>    
 
+### Building the solution file
+
+Extract the current rep into a new folder, then open the Developer Command Prompt and search its path. Run:            
+<pre>npm run build</pre>
 
 
-
-
-Dowload the rep file, then extract it to a folder.  
-From this folder, open Powershell and install Nodes JS 
 
