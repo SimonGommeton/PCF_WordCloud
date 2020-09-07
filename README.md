@@ -56,4 +56,9 @@ The command prompt will ask for credentials.
 Finally, deploy the component, using the push command:    
 <pre>pac pcf push --publisher-prefix <your publisher prefix></pre>
 
+## Import the managed solution into CDS
+
+Users may also want to manually import the solution into the CDS.  
+They can do so (downloading)[../] the solution and importing it using the CDS web portal.
+
 
