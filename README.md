@@ -32,7 +32,7 @@ First of all, users need to install:
 * [nodes.js](https://nodejs.org/en/download/)
 * [.NET Framework 4.6.2 Developer Pack](https://dotnet.microsoft.com/download/dotnet-framework/net462)
 * [Visual Studio 2017 or later](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2017) 
-  OR [.NET Core 3.1 SDK ](https://dotnet.microsoft.com/download/dotnet-core/current) [Visual Studio Code](https://code.visualstudio.com/Download) + 
+  OR [.NET Core 3.1 SDK ](https://dotnet.microsoft.com/download/dotnet-core/current) + [Visual Studio Code](https://code.visualstudio.com/Download)
 * [PowerApps CLI](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/powerapps-cli)
 
 PowerApps CLI should be updated to its latest version:    
