@@ -59,6 +59,6 @@ Finally, deploy the component, using the push command:
 ## Import the managed solution into CDS
 
 Users may also want to manually import the solution into the CDS.  
-They can do so (downloading)[blob/master/Managed Solution/] the solution and importing it using the CDS web portal.
+They can do so (downloading)[NGram_WordCloud_Solution.zip] the solution and importing it using the CDS web portal.
 
 
