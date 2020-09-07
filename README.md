@@ -2,7 +2,7 @@
   
 ![](Screenshots/WordCloud.gif)
 
-## N-Gram
+## N-Gram Word Cloud
 This dataset component provides **PowerApps** users with a customisable word cloud that implements **N-gram**.  
 N-gram allows users to know the number of occurencies of **_n_** words within a text.
 
