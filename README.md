@@ -28,7 +28,7 @@ Therefore, users can customise even further the word cloud, by modifying the **C
 
 ### Requirements
 
-First of all, users need to install:       
+First of all, users need to have installed:     
 * [nodes.js](https://nodejs.org/en/download/)
 * [.NET Framework 4.6.2 Developer Pack](https://dotnet.microsoft.com/download/dotnet-framework/net462)
 * [Visual Studio 2017 or later](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2017) 
