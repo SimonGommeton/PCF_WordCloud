@@ -41,7 +41,7 @@ PowerApps CLI should be updated to its latest version:
 ### Building the component
 
 Extract the current rep into a new folder, then open the Developer Command Prompt and search its path. Run:            
-<pre>npm run build</pre>
+<pre>npm install</pre>
 
 Then build the solution, using:
 <pre>msbuild /t:build /restore</pre>  
