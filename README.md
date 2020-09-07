@@ -15,4 +15,4 @@ In addition, they can modify or add colors to the **colorset** list - by providi
 
 ## Amcharts
 The front-end part of the component uses the following library from Amcharts : 
-[](https://www.amcharts.com/docs/v4/chart-types/wordcloud/)
+[Amcharts](https://www.amcharts.com/docs/v4/chart-types/wordcloud/)
