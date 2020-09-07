@@ -43,5 +43,14 @@ PowerApps CLI should be updated to its latest version:
 Extract the current rep into a new folder, then open the Developer Command Prompt and search its path. Run:            
 <pre>npm run build</pre>
 
+Then build the solution, using:
+<pre>msbuild /t:build /restore</pre>  
+
+Create your authentication profile using the command:
+<pre>pac auth create --url https://xyz.crm.dynamics.com</pre>
+
+The command prompt will ask for credentials.
+Finally, deploy the component, using the push command:    
+<pre>pac pcf push --publisher-prefix <your publisher prefix></pre>
 
 
