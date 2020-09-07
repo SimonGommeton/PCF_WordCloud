@@ -28,9 +28,17 @@ Therefore, users can customise even further the word cloud, by modifying the **C
 
 ### Requirements
 
-First of all, users need to install :     
+First of all, users need to install:       
 * [nodes.js](https://nodejs.org/en/download/)
+* [.NET Framework 4.6.2 Developer Pack](https://dotnet.microsoft.com/download/dotnet-framework/net462)
+* Visual Studio 2017 or later || Visual Studio Code
 * [PowerApps CLI](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/powerapps-cli)
+
+PowerApps CLI should be updated to its latest version:    
+> pac install latest    
+
+
+
 
 
 Dowload the rep file, then extract it to a folder.  
