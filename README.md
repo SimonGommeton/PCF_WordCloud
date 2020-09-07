@@ -35,7 +35,7 @@ First of all, users need to install:
 * [PowerApps CLI](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/powerapps-cli)
 
 PowerApps CLI should be updated to its latest version:    
-> pac install latest    
+<pre>pac install latest</pre>    
 
 
 
