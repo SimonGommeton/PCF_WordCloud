@@ -43,6 +43,9 @@ PowerApps CLI should be updated to its latest version:
 Extract the current rep into a new folder, then open the Developer Command Prompt and search its path. Run:            
 <pre>npm install</pre>
 
+In case vulnerabilities are found, run:   
+<pre>npm audit fix</pre>
+
 Then build the solution, using:
 <pre>msbuild /t:build /restore</pre>  
 
